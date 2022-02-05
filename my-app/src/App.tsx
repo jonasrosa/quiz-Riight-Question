@@ -7,9 +7,7 @@ import { MyBooksProvider } from "./hook";
 import { Main } from "./components/Main";
 
 function App() {
-  useEffect(() => {
-    apiBooks.get("/books").then((response) => console.log(response.data));
-  }, []);
+  
  
 
   return (

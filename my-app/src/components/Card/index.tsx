@@ -1,15 +1,44 @@
-import React from "react";
-import {DetailOfTheBooks } from '../../model/product'
+import React, { useState } from "react";
+
+import { useBooks } from "../../hook";
+
+import {CardContainer,GridCard} from './styles'
 interface CardProps{
-   bookData: DetailOfTheBooks
+   image:string
+   title:string
+   handleOpenModal: () => void;
+      
 }
 
-export const Card=({bookData}:CardProps)=>{
-    console.log(bookData)
+export const Card=({image,title,handleOpenModal}:CardProps)=>{
+    const{addNewBook} = useBooks()
+    
+    function handlerOnClick(){
+        handleOpenModal()
+        addNewBook(title)
+    }
+    
 
     return(
-        <>
-        <img/>
-        </>
+        <CardContainer>
+            
+            <GridCard>
+            <img src={image} className="imageBook"/>
+            <div className="boxText">
+
+            <h4>{title}</h4>
+            <p></p>
+            </div>
+            <div className="boxButton">
+                <button onClick={()=> handlerOnClick()}>
+                    
+                </button>
+                
+            </div>
+
+            </GridCard>
+
+        </CardContainer>
+        
     )
 }

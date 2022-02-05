@@ -1,3 +1,4 @@
+import { title } from "process";
 import React, {
   createContext,
   ReactNode,
@@ -5,11 +6,18 @@ import React, {
   useEffect,
   useContext,
 } from "react";
-import { Product } from "../model/product";
-import { api } from "../server/api";
+import { text } from "stream/consumers";
+import { Product, DetailOfTheBooks } from "../model/product";
+import { Mybook } from "../model/myBook";
+import { api, } from "../server/api";
+import {apiBooks} from "../server/apiBooks"
+import { error } from "console";
 
 interface MyBooksContextProps {
-  books: Product[];
+  product: Product[];
+  filterBook :(bookId: string)=> void;
+  showBook?:Product;
+  addNewBook:(title:string)=>void;
 }
 
 interface MyBooksProviderProps {
@@ -21,16 +29,37 @@ const MyBooksContext = createContext<MyBooksContextProps>(
 );
 
 const MyBooksProvider = ({ children }: MyBooksProviderProps) => {
-  const [books, setBooks] = useState<Product[]>([]);
-
-  useEffect(() => {
-    api.get("/").then((response) => setBooks(response.data.items));
-  }, []);
-  console.log(books)
+  const [product, setProduct] = useState<Product[]>([]);
+  const [showBook, setShowBook]= useState<Product>(  )
+  const [myBooks, setMyBooks]= useState<Mybook>()
   
 
+  useEffect(() => {
+    api.get("/items").then((response) => setProduct(response.data.items));
+  }, []);
+
+  function filterBook (title: string) {
+      const updateProduct =[...product]
+
+      const productExist= updateProduct.filter((book)=>
+      book.volumeInfo.title.includes( title))
+       if(productExist.length === 1){
+         productExist.map((book)=> setShowBook( book))  
+      }
+  }
+
+  {/* function backend*/}
+
+  
+   async function addNewBook(title:string){
+
+    apiBooks.post('/books',{title:"oi", favorite:true})
+    .then(response=> console.log(response.data))
+  }
+ 
+
   return (
-    <MyBooksContext.Provider value={{ books }}>
+    <MyBooksContext.Provider value={{ product, filterBook, showBook, addNewBook }}>
       {children}
     </MyBooksContext.Provider>
   );
@@ -40,4 +69,4 @@ function useBooks(): MyBooksContextProps {
 
   return context;
 }
-export { MyBooksProvider, MyBooksContext,useBooks };
+export { MyBooksProvider, MyBooksContext, useBooks };

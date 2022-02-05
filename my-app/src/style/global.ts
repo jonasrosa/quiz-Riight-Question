@@ -18,7 +18,7 @@ export  const GlobalStyle= createGlobalStyle`
      }
  }
  body{
-     background:${colors.white};
+     background:${colors.gray_300};
      -webkit-font-smoothing:antialiased;
      
  }
@@ -38,7 +38,48 @@ h1,h2,h3,h4,h5,h6, strong {
      list-style: none;
  }
  
- 
+ .react-modal-overlay{
+     background: ${colors.indigo};
+    
+     position: fixed;
+     top:0;
+     bottom:0;
+     right:0;
+     left:0;
+
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     border: none;
+  
+
+ }
+ .react-modal-content{
+     width: 90%;
+     height: 95%;
+     background:${colors.whiteT3} ;
+    border: none;
+     position: relative;
+  
+     border: none;
+
+ }
+
+ .react-modal-close{
+     position:absolute;
+     right: 1.5rem;
+     top:1.5rem;
+     border: none;
+     background: ${colors.whiteT1};
+     transition: filter 0.2s;
+        border: none;
+
+     &:hover{
+         filter: brightness(0.8);
+     }
+
+ }
+
  
 
 `
