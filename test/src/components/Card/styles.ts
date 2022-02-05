@@ -44,11 +44,13 @@ export const GridCard = styled.div`
     display: flex;
     align-items: baseline;
     
-
+    .like{
+      background: ${colors.green};
+    }
 
     
     button{
-        background: ${colors.indogo};
+        background: ${colors.red};
         width: 3rem;
         height: 3rem;
         border-radius: 50%;
@@ -56,7 +58,7 @@ export const GridCard = styled.div`
         border: none;
 
         :hover{
-            background:${colors.indigo};
+            background:${colors.purple};
         }
         img{
          

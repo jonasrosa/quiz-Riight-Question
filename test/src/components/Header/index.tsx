@@ -3,10 +3,18 @@ import { HeaderContainer, HeaderContext } from "./styles";
 import logo from "../../assets/logo.svg";
 import search from "../../assets/search.svg";
 import { useBooks } from "../../hook";
+import star from "../../assets/star.svg";
 
-export const Header = () => {
+interface HeaderProps{
+  handleOpenModal:()=> void;
+}
+
+export const Header = ({handleOpenModal}:HeaderProps) => {
   const { filterBook } = useBooks();
-
+  
+  function handleOnclick(){
+    handleOpenModal()
+  }
   return (
     <HeaderContainer>
       <HeaderContext>
@@ -20,7 +28,11 @@ export const Header = () => {
             onChange={(e) => filterBook(e.target.value)}
           />
         </div>
-        <div></div>
+        <div>
+          <button onClick={handleOnclick}>
+            <img src={star}/>
+          </button>
+        </div>
       </HeaderContext>
     </HeaderContainer>
   );

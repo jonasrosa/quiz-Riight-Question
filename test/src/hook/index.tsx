@@ -6,8 +6,8 @@ import React, {
   useEffect,
   useContext,
 } from "react";
-import { text } from "stream/consumers";
-import { Product, DetailOfTheBooks } from "../model/product";
+
+import { Product} from "../model/product";
 import { Mybook } from "../model/myBook";
 import { api, } from "../server/api";
 import {apiBooks} from "../server/apiBooks"
@@ -17,7 +17,8 @@ interface MyBooksContextProps {
   product: Product[];
   filterBook :(bookId: string)=> void;
   showBook?:Product;
-  addNewBook:(title:string)=>void;
+  addNewBook:(title:string,favorite:boolean)=>void;
+  deleteBook:(bookId:number)=>void;
 }
 
 interface MyBooksProviderProps {
@@ -31,7 +32,6 @@ const MyBooksContext = createContext<MyBooksContextProps>(
 const MyBooksProvider = ({ children }: MyBooksProviderProps) => {
   const [product, setProduct] = useState<Product[]>([]);
   const [showBook, setShowBook]= useState<Product>(  )
-  const [myBooks, setMyBooks]= useState<Mybook>()
   
 
   useEffect(() => {
@@ -49,17 +49,22 @@ const MyBooksProvider = ({ children }: MyBooksProviderProps) => {
   }
 
   {/* function backend*/}
+ 
+   function addNewBook(title:string,favorite:boolean){
 
-  
-   async function addNewBook(title:string){
-
-    apiBooks.post('/books',{title:"oi", favorite:true})
+     apiBooks.post('/books',{title:title, favorite:favorite})
     .then(response=> console.log(response.data))
+
+  }
+  function deleteBook(bookId:number){
+
+    apiBooks.delete(`/books/${bookId}`)
+
   }
  
 
   return (
-    <MyBooksContext.Provider value={{ product, filterBook, showBook, addNewBook }}>
+    <MyBooksContext.Provider value={{ product, filterBook, showBook, addNewBook,deleteBook }}>
       {children}
     </MyBooksContext.Provider>
   );

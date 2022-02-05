@@ -7,19 +7,12 @@ import { BookModal } from "../BookModal";
 export const Main = () => {
   const { product, showBook } = useBooks();
   const showProduct = [...product];
-  const [openModal, setOpenModal] = useState(false);
-
-  function handleOpenModal() {
-    setOpenModal(true);
-  }
-  function handleCloseModal() {
-    setOpenModal(false);
-  }
+ 
 
   return (
     <MainContainer>
       <Context>
-        <BookModal isOpen={openModal} isClose={handleCloseModal} />
+        
 
         <ul>
           {!showBook ? (
@@ -29,7 +22,7 @@ export const Main = () => {
                   <Card
                     image={book.volumeInfo.imageLinks.smallThumbnail}
                     title={book.volumeInfo.title}
-                    handleOpenModal={handleOpenModal}
+                    
                   />
                 </div>
               );
@@ -39,7 +32,7 @@ export const Main = () => {
               <Card
                 image={showBook.volumeInfo.imageLinks.smallThumbnail}
                 title={showBook.volumeInfo.title}
-                handleOpenModal={handleOpenModal}
+               
               />
             </div>
           )}

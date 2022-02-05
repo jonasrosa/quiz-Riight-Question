@@ -1,0 +1,927 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1132,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "is06DwAAQBAJ",
+      "etag": "ObUCfiJHoL4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/is06DwAAQBAJ",
+      "volumeInfo": {
+        "title": "As Aventuras de Sherlock Holmes - Vol. 3",
+        "authors": [
+          "Arthur Conan Doyle"
+        ],
+        "publisher": "LeBooks Editora ",
+        "publishedDate": "2017-10-20",
+        "description": "Sherlock Holmes, personagem criado pelo médico escocês Sir Arthur Conan Doyle, é indiscutivelmente o detetive mais famoso e reconhecido pelos amantes da literatura. Sherlock Holmes é um brilhante detetive que atua em Londres resolvendo os mais intrincados e difíceis casos graças ao uso habilidoso do raciocínio dedutivo e uma arguta observação. Conan Doyle escreveu quatro novelas e cinquenta e seis histórias curtas que incluíram Holmes, todas elas com enorme sucesso junto ao público leitor. As Aventuras de Sherlock Holmes, publicado em 1892, é o terceiro volume da C oleção Sherlock Holmes da LeBooks e apresenta uma coletânea de 12 histórias curtas vividas por Sherlock Holmes e seu parceiro Watson. As histórias são: Um escândalo na Boêmia; A liga dos cabeças vermelhas; Um caso de identidade; O mistério do vale Boscombe; As cinco sementes de laranja; O homem da boca torta; O carbúnculo azul; A faixa malhada; O polegar do engenheiro; O nobre solteirão; A coroa de berilos; As faias acobreadas. Neste ebook o leitor terá também acesso a uma raridade: um vídeo gravado com o escritor Arthur Conan Doyle. No vídeo, de 1929, ele conta como teve a inspiração para criar o seu famoso personagem, bem como as surpreendentes reações das pessoas da época ao carismático detetive Sherlock Holmes.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788583861768"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8583861765"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 250,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.11.14.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=is06DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=is06DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=is06DwAAQBAJ&printsec=frontcover&dq=dq%3Dholmes&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=is06DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=is06DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.5,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 9.5,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=is06DwAAQBAJ&rdid=book-is06DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9500000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 9500000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/As_Aventuras_de_Sherlock_Holmes_Vol_3-sample-epub.acsm?id=is06DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/As_Aventuras_de_Sherlock_Holmes_Vol_3-sample-pdf.acsm?id=is06DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=is06DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Sherlock Holmes, personagem criado pelo médico escocês Sir Arthur Conan Doyle, é indiscutivelmente o detetive mais famoso e reconhecido pelos amantes da literatura."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nytLEAAAQBAJ",
+      "etag": "KpPjnCu/R3g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nytLEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Enola Holmes: O caso da senhorita canhota (Vol. 2)",
+        "authors": [
+          "Nancy Springer"
+        ],
+        "publisher": "Verus",
+        "publishedDate": "2021-11-15",
+        "description": "Enola Holmes — a irmã mais nova de Sherlock — está de volta para decifrar mais um mistério. Dessa vez, a detetive precisa encontrar uma intrigante mulher canhota com um especial dom para desenhos. E tentar não se envolver demais pela conexão que sente com ela. Enola está sendo caçada pelo detetive mais famoso do mundo — seu próprio irmão. Mas, enquanto se esconde na maior e mais suja cidade do mundo, ela descobre desenhos a carvão ousados e brilhantes em um esconderijo e se sente a alma gêmea da garota que os desenhou. A dona dos desenhos, Lady Cecily, desapareceu sem deixar vestígios. Então, enfrentando as ruas escuras e perigosas de Londres, Enola deve desvendar as pistas para encontrar a senhorita canhota. E, para salvá-la de um vilão poderoso, arrisca revelar mais do que deveria. Será Enola capaz de manter sua identidade em segredo e encontrar Lady Cecily, ou aquilo que ela está tentando salvar — sua liberdade — pode ser perdida para sempre? A garota esperta e independente será traída pelo próprio coração solitário? Enola Holmes: O caso da senhorita canhota nos mostra tudo o que vale a pena arriscar para se tornar sua própria heroína. \"A história de uma jovem empoderada, capaz e inteligente... A série de livros Enola Holmes transmite uma mensagem impactante para crianças e adolescentes do mundo todo de que você pode fazer qualquer coisa se se empenhar, e a mensagem é passada de um jeito emocionante e cheio de aventuras.\" - Millie Bobby Brown \"Neste segundo livro da série Enola Holmes, a vencedora do Prêmio Edgar Allan Poe por duas vezes consecutivas, Nancy Springer, nos traz todo o perigo e as intrigas da Londres vitoriana, enquanto dá sequência às aventuras de uma das heroínas mais espirituosas e fascinantes da literatura atual.\" - The Mysterious Bookshop \"Repleta de mistério, a série tem uma protagonista jovem, forte, inteligente e resiliente, compassiva e generosa.\" - Kids' Book Review \"Gostei desta pequena aventura, e você também vai gostar, se estiver em busca de uma menina brilhante tentando tomar as rédeas da própria vida enquanto faz o seu melhor para ajudar os outros.\" - ThinkerViews",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786559240548"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6559240541"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 208,
+        "printType": "BOOK",
+        "categories": [
+          "Young Adult Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nytLEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nytLEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=nytLEAAAQBAJ&printsec=frontcover&dq=dq%3Dholmes&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=nytLEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=nytLEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 27.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 27.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=nytLEAAAQBAJ&rdid=book-nytLEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 27900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 27900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Enola_Holmes_O_caso_da_senhorita_canhota-sample-epub.acsm?id=nytLEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Enola_Holmes_O_caso_da_senhorita_canhota-sample-pdf.acsm?id=nytLEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nytLEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot; - Millie Bobby Brown &quot;Neste segundo livro da série Enola Holmes, a vencedora do Prêmio Edgar Allan Poe por duas vezes consecutivas, Nancy Springer, nos traz todo o perigo e as intrigas da Londres vitoriana, enquanto dá sequência às ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HAErEAAAQBAJ",
+      "etag": "T4qS9f1r5kU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HAErEAAAQBAJ",
+      "volumeInfo": {
+        "title": "O último caso de Sherlock Holmes",
+        "authors": [
+          "Arthur Conan Doyle"
+        ],
+        "publisher": "Principis",
+        "publishedDate": "2021-05-17",
+        "description": "Coletânea de oito histórias de Arthur Conan Doyle, a que dá título a esta coleção conta como Sherlock Holmes é retirado da aposentadoria para ajudar o governo a combater a ameaça alemã, com a aproximação da Primeira Guerra Mundial. Vários dos casos anteriores do detetive completam o volume. São eles: A aventura de Wisteria Lodge, A aventura dos planos de Bruce-Partington, A aventura do pé-de-diabo, A aventura do círculo vermelho, A aventura do desaparecimento de Lady Frances Carfax e A aventura do detetive moribundo.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786555524833"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6555524839"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 192,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HAErEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HAErEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=HAErEAAAQBAJ&printsec=frontcover&dq=dq%3Dholmes&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=HAErEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=HAErEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 14.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 14.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=HAErEAAAQBAJ&rdid=book-HAErEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 14900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 14900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/O_%C3%BAltimo_caso_de_Sherlock_Holmes-sample-epub.acsm?id=HAErEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/O_%C3%BAltimo_caso_de_Sherlock_Holmes-sample-pdf.acsm?id=HAErEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HAErEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Coletânea de oito histórias de Arthur Conan Doyle, a que dá título a esta coleção conta como Sherlock Holmes é retirado da aposentadoria para ajudar o governo a combater a ameaça alemã, com a aproximação da Primeira Guerra ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7aTbwgEACAAJ",
+      "etag": "WMNpeK/CFWc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7aTbwgEACAAJ",
+      "volumeInfo": {
+        "title": "O jovem Sherlock Holmes: Nuvem da morte",
+        "authors": [
+          "Andrew Lane"
+        ],
+        "publisher": "Intrínseca",
+        "publishedDate": "2012-01-27",
+        "description": "Sherlock Holmes tem apenas catorze anos quando, ao caminhar por um bosque, descobre um cadáver. Trata-se de um homem. Está coberto de pústulas. É então que Holmes começa uma nova vida. Sua mente destemida e a sede de aventuras conduzem-no por uma jornada capaz de deixar qualquer um sem fôlego: da tranquilidade da vida no campo ao submundo das docas londrinas, enfrentando fogo, espionagem e sequestros, até o cerne de uma aterrorizante trama que poderá mudar o futuro da Grã-Bretanha.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8580571367"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788580571363"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7aTbwgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7aTbwgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=7aTbwgEACAAJ&dq=dq%3Dholmes&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=7aTbwgEACAAJ&dq=dq%3Dholmes&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/O_jovem_Sherlock_Holmes_Nuvem_da_morte.html?hl=&id=7aTbwgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7aTbwgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Sherlock Holmes tem apenas catorze anos quando, ao caminhar por um bosque, descobre um cadáver."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "52zTDwAAQBAJ",
+      "etag": "FspBY7zvv0k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/52zTDwAAQBAJ",
+      "volumeInfo": {
+        "title": "A granja da abadia",
+        "subtitle": "Um caso de Sherlock Holmes",
+        "authors": [
+          "Arthur Conan Doyle"
+        ],
+        "publisher": "Editora Schwarcz - Companhia das Letras",
+        "publishedDate": "2015-01-07",
+        "description": "Nessa história o jovem inspetor Stanley Hopkins, figura conhecida de outros contos sherlockianos, trabalha com Holmes no caso do homicídio de sir Eustace Brackenstall. Este conto foi publicado originalmente no livro A volta de Sherlock Holmes, de Arthur Conan Doyle.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788537814901"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8537814903"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=52zTDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=52zTDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=52zTDwAAQBAJ&printsec=frontcover&dq=dq%3Dholmes&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=52zTDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=52zTDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 3.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=52zTDwAAQBAJ&rdid=book-52zTDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 3900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/A_granja_da_abadia-sample-epub.acsm?id=52zTDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/A_granja_da_abadia-sample-pdf.acsm?id=52zTDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=52zTDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Este conto foi publicado originalmente no livro A volta de Sherlock Holmes, de Arthur Conan Doyle."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "irs8DwAAQBAJ",
+      "etag": "79SRKfEw/K8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/irs8DwAAQBAJ",
+      "volumeInfo": {
+        "title": "O Signo dos Quatro: Sherlock Holmes - Vol. 2",
+        "authors": [
+          "Arthur Conan Doyle"
+        ],
+        "publisher": "LeBooks Editora ",
+        "publishedDate": "2017-11-03",
+        "description": "O Signo dos Quatro é a segunda história da saga do detetive Sherlock Holmes, escrita por Sir Arthur Conan Doyle, publicado originalmente pela Lippincott's Magazine em fevereiro de 1890, sendo a primeira edição em formato de livro publicada em outubro do mesmo ano. Na história, uma moça de nome Mary Morstan, procura pelo serviço do detetive, para desvendar o que aconteceu ao seu pai. Ele morreu dez anos antes de moça procurar o detetive. Quatro anos após a morte do pai, a moça começa a receber anualmente uma pérola de grande valor. Após seis anos recebendo essas pérolas, sem saber o motivo nem quem as mandava, a moça recebe um bilhete da mesma pessoa que lhe enviava as pérolas, marcando um encontro. As histórias de Sherlock Holmes são adoradas por inúmeras gerações desde seu lançamento até os dias de hoje e são apresentadas na Coleção Sherlock Holmes, publicada pela LeBooks Editora. A coleção é composta por oito títulos, sendo quatro romances e quatro coletâneas de contos com as aventuras de Sherlock Holmes e seu inseparável parceiro Dr. Watson. Os volumes estão numerados de acordo com a data de publicação de cada título, que vai de 1887 até 1915, sendo O Signo dos Quatro o volume 2 da coleção.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788583861782"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8583861781"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 150,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.7.9.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=irs8DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=irs8DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=irs8DwAAQBAJ&printsec=frontcover&dq=dq%3Dholmes&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=irs8DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=irs8DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.5,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 9.5,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=irs8DwAAQBAJ&rdid=book-irs8DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9500000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 9500000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/O_Signo_dos_Quatro_Sherlock_Holmes_Vol_2-sample-epub.acsm?id=irs8DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/O_Signo_dos_Quatro_Sherlock_Holmes_Vol_2-sample-pdf.acsm?id=irs8DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=irs8DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "O Signo dos Quatro é a segunda história da saga do detetive Sherlock Holmes, escrita por Sir Arthur Conan Doyle, publicado originalmente pela Lippincott&#39;s Magazine em fevereiro de 1890, sendo a primeira edição em formato de livro ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oWvTDwAAQBAJ",
+      "etag": "lhVZZz0HrNI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oWvTDwAAQBAJ",
+      "volumeInfo": {
+        "title": "O homem da boca torta",
+        "subtitle": "Um caso de Sherlock Holmes",
+        "authors": [
+          "Arthur Conan Doyle"
+        ],
+        "publisher": "Editora Schwarcz - Companhia das Letras",
+        "publishedDate": "2014-01-20",
+        "description": "A consagrada tradução dos Clássicos Zahar O conto tem início num antro de ópio na zona dominada pelo crime do East End de Londres, um ambiente vívido na imaginação popular vitoriana. A história de Watson é um dos primeiros exemplos de jogo limpo numa narrativa policial, isto é, o leitor toma conhecimento de todas as pistas ao mesmo tempo em que o detetive. Watson traça a imagem indelével de Holmes cercado por almofadas, sentado de pernas cruzadas e metido em seu roupão, fumando seu cachimbo e contemplando o problema à sua frente. Há insinuações de um interlúdio romântico entre Holmes e a encantadora Mrs. Neville St. Clair.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788537811665"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8537811661"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 35,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oWvTDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oWvTDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=oWvTDwAAQBAJ&printsec=frontcover&dq=dq%3Dholmes&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=oWvTDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=oWvTDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 3.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=oWvTDwAAQBAJ&rdid=book-oWvTDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 3900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/O_homem_da_boca_torta-sample-epub.acsm?id=oWvTDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/O_homem_da_boca_torta-sample-pdf.acsm?id=oWvTDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oWvTDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A consagrada tradução dos Clássicos Zahar O conto tem início num antro de ópio na zona dominada pelo crime do East End de Londres, um ambiente vívido na imaginação popular vitoriana."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GH9zBQZbbBQC",
+      "etag": "Dtb9kBWSYvo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GH9zBQZbbBQC",
+      "volumeInfo": {
+        "title": "The Cervantes Encyclopedia: L-Z",
+        "authors": [
+          "Howard Mancing"
+        ],
+        "publisher": "Greenwood Publishing Group",
+        "publishedDate": "2004",
+        "description": "Annotation Hundreds of A-Z entries cover Cervantes' works, characters, key terms and concepts, and more.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0313328919"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780313328916"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 863,
+        "printType": "BOOK",
+        "averageRating": 4,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GH9zBQZbbBQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GH9zBQZbbBQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=GH9zBQZbbBQC&pg=PA482&dq=dq%3Dholmes&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=GH9zBQZbbBQC&dq=dq%3Dholmes&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Cervantes_Encyclopedia_L_Z.html?hl=&id=GH9zBQZbbBQC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/The_Cervantes_Encyclopedia_L_Z-sample-pdf.acsm?id=GH9zBQZbbBQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GH9zBQZbbBQC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Interestingly , Doña Clara ( \u003cb\u003eDQ\u003c/b\u003e I , 43 ) has the same birthday , as does Preciosa in Gitanilla ; these are the only two ... Indeed , the \u003cb\u003eDQ\u003c/b\u003e - \u003cb\u003eHolmes\u003c/b\u003e parallel is implicit throughout the novel , and the chivalric nature of the detective&#39;s&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-C8cEAAAQBAJ",
+      "etag": "1UzQZQjuW04",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-C8cEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Sherlock Holmes e o caso da Sociedade Secreta",
+        "subtitle": "Sherlock Holmes Vol. 6",
+        "authors": [
+          "Erika Sanders"
+        ],
+        "publisher": "Erika Sanders",
+        "description": "Série da autora na qual narra as aventuras de Sherlock Holmes e do Dr. Watson que ele não documentou em outros escritos publicados devido aos escândalos que sua revelação acarretaria devido à sua natureza mais… descaradamente engraçada. Mas agora, quando esses escritos particulares de Watson são encontrados arquivados na Scotland Yard, o escritor pode trazê-los à luz porque mais de cem anos se passaram desde os eventos narrados neles. Nota sobre o autor: Erika Sanders é uma escritora conhecida internacionalmente que assina seus escritos mais eróticos, longe de sua prosa usual, com seu nome de solteira.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 214,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-C8cEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-C8cEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=-C8cEAAAQBAJ&printsec=frontcover&dq=dq%3Dholmes&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=-C8cEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=-C8cEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 12.69,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 12.69,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=-C8cEAAAQBAJ&rdid=book--C8cEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 12690000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 12690000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-C8cEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Nota sobre o autor: Erika Sanders é uma escritora conhecida internacionalmente que assina seus escritos mais eróticos, longe de sua prosa usual, com seu nome de solteira."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4vYZDgAAQBAJ",
+      "etag": "IVbk7wPs+mI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4vYZDgAAQBAJ",
+      "volumeInfo": {
+        "title": "As novas aventuras de Sherlock Holmes",
+        "subtitle": "O Manuscrito dos Mortos",
+        "authors": [
+          "David Stuart Davies"
+        ],
+        "publisher": "Abajour Books",
+        "publishedDate": "2017-02-09",
+        "description": "Holmes se disfarça de médium para participar de uma sessão e desmascarar um impostor, Sebastian Melmoth, um homem empenhado em obter o poder da imortalidade após a descoberta de um antigo papiro egípcio. Cabe a Holmes e Watson detê-lo e evitar o desastre iminente... Nesta aventura de ritmo acelerado, a ação vai de Londres ao pitoresco distrito de Lake, onde Sherlock Holmes e Watson mais uma vez irão lutar contra as forças do mal. A criação atemporal de Sir Arthur Conan Doyle está de volta em uma nova série de belas histórias de detetive. Desde os primeiros dias da carreira de Holmes até seus surpreendentes encontros com invasores marcianos, a série As Novas Aventuras de Sherlock Holmes (Abajour Books) apresenta os mais variados e emocionantes casos do maior detetive do mundo.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788569250135"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8569250134"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 172,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4vYZDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4vYZDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=4vYZDgAAQBAJ&printsec=frontcover&dq=dq%3Dholmes&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=4vYZDgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=4vYZDgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 24.5,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 24.5,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=4vYZDgAAQBAJ&rdid=book-4vYZDgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 24500000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 24500000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/As_novas_aventuras_de_Sherlock_Holmes-sample-epub.acsm?id=4vYZDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/As_novas_aventuras_de_Sherlock_Holmes-sample-pdf.acsm?id=4vYZDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4vYZDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Desde os primeiros dias da carreira de Holmes até seus surpreendentes encontros com invasores marcianos, a série As Novas Aventuras de Sherlock Holmes (Abajour Books) apresenta os mais variados e emocionantes casos do maior detetive do ..."
+      }
+    }
+  ]
+}
