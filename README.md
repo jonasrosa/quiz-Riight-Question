@@ -1,5 +1,13 @@
-# quiz-Riight-Question
+ quiz-Riight-Question
+  
 
-  na raiz do projeto inicie com yarn start
+  Na pasta Test  inicie com comendo yarn no terminal
+   e para rodar digite no terminal yarn start
+   
+ Na pasta Adonnisjs   entra na pasta App
+  inicie com comendo yarn no terminal
+  e para rodar digite no termina  node ace serve --watch^C
+  
+  
  
   
